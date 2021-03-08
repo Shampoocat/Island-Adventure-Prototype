@@ -10,6 +10,7 @@ It is written in Python and uses the rich (https://github.com/willmcgugan/rich) 
 ## How to Run
 
 For Linux(Only tested on Mint) and Windows you can use these executables:
+
 *put exes here*
 
 Alternatively you can just run the python script.
