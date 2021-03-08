@@ -40,6 +40,8 @@ A lot of refactoring.
 
 Objects(Like furniture etc.)
 
+Events and Encounters.
+
 A rework of the world generation, including a better random generator that supports weighted random chances based on circumstances. 
 
 Items, Inventory, Equipment, Crafting, Collecting Resources.
