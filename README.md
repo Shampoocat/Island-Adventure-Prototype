@@ -29,3 +29,17 @@ pip install rich
 To install it.
 
 Then just run the main.py file.
+
+
+## Roadmap for Future Improvements
+
+
+Some minor improvements for existing features.
+
+A lot of refactoring.
+
+Objects(Like furniture etc.)
+
+A rework of the world generation, including a better random generator that supports weighted random chances based on circumstances. 
+
+Items, Inventory, Equipment, Crafting, Collecting Resources.
