@@ -1,4 +1,4 @@
-# Island-Adventure-Prototype
+# Island Adventure Prototype
 
 
 This is a Prototype of a Text based Roguelike game with heavy emphasis on exploration. It is far from feature complete. Currently it includes a procedurally generated island that can be explored and a rudimentary time system. 
