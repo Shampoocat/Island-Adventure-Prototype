@@ -10,6 +10,7 @@ It is written in Python and uses the rich (https://github.com/willmcgugan/rich) 
 ## How to Run
 
 For Linux(Only tested on Mint) and Windows you can use these executables:
+
 (Note: I do not fully trust pyinstaller so these might be a bit janky. Also your antivirus might go haywire. When in doubt use the script.)
 
 *put exes here*
