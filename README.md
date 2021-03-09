@@ -13,7 +13,10 @@ For Linux(Only tested on Mint) and Windows you can use these executables:
 
 (Note: I do not fully trust pyinstaller so these might be a bit janky. Also your antivirus might go haywire. When in doubt use the script.)
 
-*put exes here*
+Windows: https://github.com/Shampoocat/Island-Adventure-Prototype/blob/main/Island%20Adventure%20Prototype.exe
+
+Linux: https://github.com/Shampoocat/Island-Adventure-Prototype/blob/main/Island%20Adventure%20Prototype
+
 
 Alternatively you can just run the python script.
 
