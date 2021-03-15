@@ -36,7 +36,7 @@ To install it.
 Then just run the main.py file.
 
 
-## Roadmap for Future Improvements
+## Roadmap for Future Development
 
 
 Some minor improvements for existing features.
