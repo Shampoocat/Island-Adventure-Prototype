@@ -11,9 +11,11 @@ It is written in Python and uses the rich (https://github.com/willmcgugan/rich) 
 
 For Linux(Only tested on Mint) and Windows you can use these executables:
 
+https://github.com/Shampoocat/Island-Adventure-Prototype/releases/tag/0.2
+
+
 (Note: I do not fully trust pyinstaller so these might be a bit janky. Also your antivirus might go haywire. When in doubt use the script.)
 
-https://github.com/Shampoocat/Island-Adventure-Prototype/releases/tag/0.2
 
 
 Alternatively you can just run the python script.
