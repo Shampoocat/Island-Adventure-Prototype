@@ -35,6 +35,24 @@ To install it.
 
 Then just run the main.py file.
 
+## Changelog
+
+(Mar 9, 2021) 0.1:
+
+Initial Release
+
+(May 5, 2021) 0.2:
+
+New way of handling data for locations.
+
+Rework of the Textgenerator.
+
+Added basic Objects.
+
+Reworked how steps are shown to the player.
+
+Some more minor stuff.
+
 
 ## Roadmap for Future Development
 
