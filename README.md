@@ -39,11 +39,12 @@ Then just run the main.py file.
 ## Roadmap for Future Development
 
 
-Some minor improvements for existing features.
 
-A lot of refactoring.
+A lot of refactoring.(mostly done)
 
-Objects(Like furniture etc.)
+Objects(Like furniture etc.)(basics are in place, just not much interaction as of now)
+
+Character stats.
 
 Events and Encounters.
 
