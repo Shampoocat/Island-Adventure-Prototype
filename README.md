@@ -39,7 +39,7 @@ Then just run the main.py file.
 
 (Mar 9, 2021) 0.1:
 
-Initial Release
+Initial Release.
 
 (May 5, 2021) 0.2:
 
